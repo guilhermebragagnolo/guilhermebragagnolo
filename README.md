@@ -4,6 +4,22 @@
 
 </div>
 
+---
+
+<div align="center">
+
+## 💫 Sobre Mim
+
+💻 Atualmente estudando programação e desenvolvimento web no Entra21  
+📚 Aprendendo Java, JavaScript, HTML, CSS e Banco de Dados  
+🚀 Sempre buscando evoluir minhas habilidades como desenvolvedor  
+🎯 Interesse em Back-end, Front-end e criação de sistemas  
+⚡ Gosto de aprender novas tecnologias e criar projetos práticos funcionais
+
+</div>
+
+---
+
 <div align="center">
 
 # 👨‍💻 Guilherme Bragagnolo
