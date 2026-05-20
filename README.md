@@ -8,7 +8,7 @@
 
 # 👨‍💻 Guilherme Bragagnolo
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💻+Java+Developer;⚡+JavaScript;🗄️+Banco+de+Dados; 🎨+CSS"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💻+Java+Developer;⚡+JavaScript;🗄️+Banco+de+Dados; 🎨+CSS;"/>
 
 </div>
 
