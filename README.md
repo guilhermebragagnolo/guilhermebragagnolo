@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # 👨‍💻 Guilherme Bragagnolo
@@ -64,4 +63,3 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
 </div>
-```
