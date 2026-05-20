@@ -1,10 +1,22 @@
 <div align="center">
 
-# 👨‍💻 Guilherme Bragagnolo
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Guilherme%20Bragagnolo&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-💻 Estudando programação e evoluindo todos os dias  
-🚀 Focado em Java, Web e Banco de Dados  
-🎯 Buscando oportunidades na área de desenvolvimento
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=1000&lines=Estudando+Programa%C3%A7%C3%A3o;Java+%7C+JavaScript+%7C+Banco+de+Dados;Sempre+aprendendo+coisas+novas+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Tecnologias
+
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql,git,github,vscode"/>
 
 </div>
 
@@ -15,11 +27,11 @@
 ## 🌐 Contato
 
 <a href="mailto:guilherme_b_cunha@estudante.sesisenai.org.br">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="[https://github.com/SEUGITHUB](https://github.com/guilhermebragagnolo)">
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/guilhermebragagnolo">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -28,15 +40,9 @@
 
 <div align="center">
 
-## 💻 Tech Stack
+<img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermebragagnolo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+<img width="41%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebragagnolo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
@@ -44,22 +50,12 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=SEUGITHUB&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=SEUGITHUB&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUGITHUB&theme=tokyonight&hide_border=false&layout=compact)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
----
-
 <div align="center">
 
-## 🐍 Snake Animation
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
 
 </div>
