@@ -10,11 +10,8 @@
 
 ## 💫 Sobre Mim
 
-💻 Atualmente estudando programação e desenvolvimento web no Entra21  
-📚 Aprendendo Java, JavaScript, HTML, CSS e Banco de Dados  
-🚀 Sempre buscando evoluir minhas habilidades como desenvolvedor  
-🎯 Interesse em Back-end, Front-end e criação de sistemas  
-⚡ Gosto de aprender novas tecnologias e criar projetos práticos funcionais
+Cursando o 3º ano do Ensino Médio com curso Técnico integrado em Desenvolvimento de Sistemas no SENAI Blumenau/SC.
+Também estou cursando o Entra21, fazendo curso de Java com carga horária de 480h.
 
 </div>
 
